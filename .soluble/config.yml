@@ -1,6 +1,6 @@
 pr_comments_enabled: true
 pr_status_thresholds:
-  critical: 999
+  critical: 0
   high: 999
   medium: 999
   low: 999
